@@ -2,7 +2,7 @@ package Level1;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.List;
+import java.util.List; 
 
 class Solution {
     public int[] solution(int[] answers) {
