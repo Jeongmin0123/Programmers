@@ -18,7 +18,7 @@ function solution(numbers, hand) {
             answer += 'R';
             right = [parseInt(numbers[i]/3 - 1),2];
         } else {
-        	// 받아온 숫자의 위치를 좌표로 변환한다.
+        	// 받아온 숫자의 위치를 좌표로 변환한다. 
             var temp = [];
             if(numbers[i] == 0) {
                 temp = [3,1];
